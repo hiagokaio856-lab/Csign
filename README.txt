@@ -1,6 +1,7 @@
 
 
 This project will be abandoned, just like some parents abandon their children.
+(I meant that FOR NOW the project will not receive any new input from me).
 If you want to modify or add things, feel free (please give credit).
 
 For that same reason,
