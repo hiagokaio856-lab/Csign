@@ -1,13 +1,11 @@
 
 
-This project will be abandoned, just like some parents abandon their children.
-(I meant that FOR NOW the project will not receive any new input from me).
-If you want to modify or add things, feel free (please give credit).
+//This project will be abandoned, just like some parents abandon their children.
+(is this serious?)
+On parts.
+Actually I'm going to take a "vacation" (fall flat on my face in my studies) for about 5 or 6 months
 
-For that same reason,
-This project will NOT receive bug fixes.
-
-The project may return in 4 or 5 months, and if it does, I will try to fix it.
+Therefore, I will not be able to actively participate in the project (for now!).
 
 (kind of negative, right?)
 
